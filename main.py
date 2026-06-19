@@ -199,7 +199,7 @@ def handle_bio(message):
                 f"📱 Platform: `{platform}`\n"
                 f"🌍 Region: `{region}`\n\n"
                 f"📝 New Bio: {new_bio}\n\n"
-                "👑 Credit: @itzpaglu"
+                "👑 Credit: @M_g_8_P"
             )
             bot.send_message(message.chat.id, response_text, parse_mode='Markdown')
 
